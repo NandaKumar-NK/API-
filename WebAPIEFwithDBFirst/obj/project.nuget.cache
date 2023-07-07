@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "M+WVkKRDH6d/fVa7/FIDz26ekzM/40j+ZwaQlvNNTZmf0OQmvCx/2176L7eDDpHV+MZ7D34eCL8Ph1UvZ82CXQ==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\programs\\WebAPIEFwithDBFirst\\WebAPIEFwithDBFirst\\WebAPIEFwithDBFirst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nandh\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\nandh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\nandh\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\nandh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\nandh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\nandh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\nandh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
